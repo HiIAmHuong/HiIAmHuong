@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I am a Data Enthusiast dedicated to extracting valuable insights from intricate datasets and converting information into practical solutions.
+- ⚡ **Software skills**: (proficient) SQL, Python, MS PowerBI (familiar) R programming, Azure Data Factory
+- 🔭 I’m seeking internship opportunities as a Data Analyst or Business Intelligence.
+- 📫 Reach me at: nguyenvanhuong.4work@gmail.com
