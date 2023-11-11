@@ -7,7 +7,7 @@ Hi there, I'm Nguyễn Văn Hướng 👋
 ### Glad to see you here! ![](https://komarev.com/ghpvc/?username=HiIAmHuong&label=Visitors)
 
 #### :man_technologist: About Me :
-I am a Data Enthusiast dedicated to collecting and analyzing to craft valuable insights or deliver actionable information from intricate datasets.
+I am a Data Enthusiast dedicated to defining (asking), preparing, processing, collecting and analyzing to share valuable insights or deliver actionable information from intricate datasets.
 
 - 🚀 I’m currently improving to excel in Data Analysis, Data Mining, Data Modeling, Machine Learning, ETL and Report;
 - ⚡ **Software skills**: (proficient) SQL, Python, MS PowerBI (familiar) R programming, Azure Data Factory
