@@ -4,6 +4,11 @@ Hi there, I'm Nguyễn Văn Hướng 👋
 ### Hi there, I'm Nguyễn Văn Hướng 👋
 [![General badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hiiamhuong/)
 
+<h2 align="center">
+  Data Analyst | Business Intelligence
+</h2>
+  
+
 ### Glad to see you here! ![](https://komarev.com/ghpvc/?username=HiIAmHuong&label=Visitors)
 
 #### :man_technologist: About Me :
